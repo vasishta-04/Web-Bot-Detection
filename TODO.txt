@@ -1,0 +1,8 @@
+
+1) impliment adda_boost
+2) impliment random_forest
+3) impliment suport vector machine
+4) impliment nural network
+
+
+for every implimentation we need stats and graphs of every method 
